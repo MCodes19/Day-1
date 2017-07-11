@@ -1,0 +1,23 @@
+section{
+    width: 306px;
+    height: 306px;
+    background-color:grey
+}
+div{
+    width: 100px;
+    height: 100px;
+    background-color:
+    border: 1px solid
+}
+#One{
+    background-color: cyan
+}
+
+#Two{
+    background-color: teal
+}
+
+img{
+    width: 297px;
+    height: 225px;
+}
